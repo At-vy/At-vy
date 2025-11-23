@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @At-vy
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Backend Devlopment
+- 👋 Hi, I’m @At-vy("Atharva Vyas")
+- 👀 I’m interested in ... Data Science,DSA,M.L.
+- 🌱 I’m currently learning ... DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
